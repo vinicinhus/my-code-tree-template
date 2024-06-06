@@ -21,7 +21,7 @@ For example:
 
 **Resources (resources):** Keep all project resources such as images, icons, audio files, or any other assets used in your software.
 
-**Tools (tools):**: Store any tools or utilities specific to your project, such as scripts, build tools, or custom software.
+**Tools (tools):** Store any tools or utilities specific to your project, such as scripts, build tools, or custom software.
 
 **Deployment (deploy):**: Include deployment scripts, configuration files, and any other resources needed for deploying your software.
 
