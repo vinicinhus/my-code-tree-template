@@ -23,7 +23,7 @@ For example:
 
 **Tools (tools):** Store any tools or utilities specific to your project, such as scripts, build tools, or custom software.
 
-**Deployment (deploy):**: Include deployment scripts, configuration files, and any other resources needed for deploying your software.
+**Deployment (deploy):** Include deployment scripts, configuration files, and any other resources needed for deploying your software.
 
 **Miscellaneous (misc):** This folder can be used for any additional files or resources that don't fit into the other categories.
 
